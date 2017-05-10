@@ -11,6 +11,6 @@
 ![Diag1](https://github.com/verteks/planing/blob/master/Fishbone1.jpg)
 
 # Метод парных сравнений
-![Diag2](https://github.com/verteks/planing/blob/master/Img.png)
+![Diag2](https://github.com/verteks/planing/blob/master/img.png)
 
 
